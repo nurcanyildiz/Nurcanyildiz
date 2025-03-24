@@ -1,9 +1,9 @@
 ## Hi there 👋
 <p>I'm a passionate developer working with JavaScript, React, Node.js, and SQL. I'm constantly improving my skills and building projects to deepen my understanding.</p> 
 
-🚀 Currently, I'm focused on sharpening my full-stack development abilities.
+<ul>🚀 Currently, I'm focused on sharpening my full-stack development abilities.
 💡 Open to collaboration and excited to learn from others.
-🎯 Actively looking for a junior developer role where I can grow and contribute!
+🎯 Actively looking for a junior developer role where I can grow and contribute!</ul>
 
 Check out my projects and feel free to connect!
 
