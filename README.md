@@ -1,4 +1,11 @@
 ## Hi there 👋
+## I'm a passionate developer working with JavaScript, React, Node.js, and SQL. I'm constantly improving my skills and building projects to deepen my understanding.
+
+🚀 Currently, I'm focused on sharpening my full-stack development abilities.
+💡 Open to collaboration and excited to learn from others.
+🎯 Actively looking for a junior developer role where I can grow and contribute!
+
+Check out my projects and feel free to connect!
 
 <!--
 **nurcanyildiz/Nurcanyildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
