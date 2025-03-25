@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p>I'm a passionate developer working with JavaScript, React, Node.js, and SQL. I'm constantly improving my skills and building projects to deepen my understanding.</p> 
+<p>I'm a passionate developer working with JavaScript, React,React Native, Node.js, and SQL. I'm constantly improving my skills and building projects to deepen my understanding.</p> 
 
 <ul>
  <li> 🚀 Currently, I'm focused on sharpening my full-stack development abilities.</li>
